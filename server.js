@@ -1,6 +1,6 @@
 'use strict';
 
-// express is a nodejs web server that does stuff
+// express is a nodejs web server that does stuff and others
 // https://www.npmjs.com/package/express
 const express = require('express');
 
